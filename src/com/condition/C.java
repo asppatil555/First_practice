@@ -37,13 +37,22 @@ public class C {
 //	
 //	/////////////////////
 		
+//		
+//		int a=sc.nextInt();
+//		int b=sc.nextInt();
+//		int c=sc.nextInt();
+//		int d=sc.nextInt();
+//		
+//		System.out.println(a+b+c+d);
 		
-		int a=sc.nextInt();
-		int b=sc.nextInt();
-		int c=sc.nextInt();
-		int d=sc.nextInt();
 		
-		System.out.println(a+b+c+d);
+		
+		
+		
+		
+		
+		
+		
 	}
 
 }
